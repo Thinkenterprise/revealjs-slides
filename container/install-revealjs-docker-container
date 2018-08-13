@@ -1,0 +1,4 @@
+git clone https://github.com/amouat/revealjs-docker
+docker-compose up -d
+sudo bash run.sh 
+Please change the parameter in rund.sh or docker_compose.yaml
